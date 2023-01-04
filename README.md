@@ -1,2 +1,2 @@
-# Python_Advanced_Assignments
-Python Advanced Assignments
+Python_Advanced_Assignments
+All soloved assignmenst of python adavanced concepts
